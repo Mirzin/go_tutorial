@@ -8,6 +8,6 @@ require (
 )
 
 require (
-	github.com/gorilla/schema v1.2.0 // indirect
+	github.com/gorilla/schema v1.2.0
 	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
 )
